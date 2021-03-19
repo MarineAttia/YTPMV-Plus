@@ -1,2 +1,2 @@
 # YTPMV-Plus
-YTPMV+ Tunes Video Generator
+YTPMV+ THE GENERATOR RELEASE
